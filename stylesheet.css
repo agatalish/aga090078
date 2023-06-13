@@ -1,0 +1,42 @@
+.agatalish{
+text-align: left;
+color: black;
+background-color: aqua;
+font-size: 40px;
+
+
+}
+.asad{
+border:5px dotted black;
+margin:5px 100 ;
+}
+.muhammad{
+text-align: center;
+font-size: 100px;
+color: white;
+background-color: black;
+margin: 10px 400px;
+border:dashed white;
+}
+.ali{
+font-size: 25px;
+
+}
+.alibhai:hover{
+color: gold;
+border: double black;
+background-color: fuchsia;
+
+}
+.kgf:hover{
+color: white;
+background-color: black;
+}
+.dad:hover{
+background-color:blue;
+color: black;
+}
+.hh:hover{
+color: brown;
+background-color: darkorange;
+}
